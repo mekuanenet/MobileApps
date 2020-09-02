@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="enter_food_hint">Please enter new food</string>
+</resources>
